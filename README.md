@@ -39,3 +39,8 @@
 
 # 知乎文章
 [https://zhuanlan.zhihu.com/p/32525962](https://zhuanlan.zhihu.com/p/32525962)
+
+# Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/HappyUncle/wechat_jump_gui_bin.svg)](https://starchart.cc/HappyUncle/wechat_jump_gui_bin)
+     
